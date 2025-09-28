@@ -1,0 +1,32 @@
+cff-version: "1.2.0"
+authors:
+- family-names: Ghosh
+  given-names: Arkadeep
+  orcid: "https://orcid.org/0009-0008-3209-8125"
+contact:
+- family-names: Ghosh
+  given-names: Arkadeep
+  orcid: "https://orcid.org/0009-0008-3209-8125"
+doi: 10.5281/zenodo.17162503
+message: If you use this software, please cite our article in the
+  Journal of Open Source Software.
+preferred-citation:
+  authors:
+  - family-names: Ghosh
+    given-names: Arkadeep
+    orcid: "https://orcid.org/0009-0008-3209-8125"
+  date-published: 2025-09-26
+  doi: 10.21105/joss.08036
+  issn: 2475-9066
+  issue: 113
+  journal: Journal of Open Source Software
+  publisher:
+    name: Open Journals
+  start: 8036
+  title: "Stresslog: A Python package for modeling wellbore stability in
+    inclined stress states"
+  type: article
+  url: "https://joss.theoj.org/papers/10.21105/joss.08036"
+  volume: 10
+title: "Stresslog: A Python package for modeling wellbore stability in
+  inclined stress states"
